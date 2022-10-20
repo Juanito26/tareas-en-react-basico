@@ -7,7 +7,7 @@ function ComponenteB({us}) {
     <div>
     <h2> Nombre: {us.Nombre} </h2> 
     <h3> Apellido: {us.Apellido}</h3>
-    <h4> Email: {us.Email}</h4>  
+    <h4> Emaildddd: {us.Email}</h4>  
     <h5>
      Conectado: {us.Conectado ? 'Contacto en linea':'Contacto no Disponible'}
     </h5>
