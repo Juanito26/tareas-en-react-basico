@@ -4,7 +4,7 @@ import ComponenteB from './Componentes/ComponenteB';
 import { Contacto } from './Componentes/ComponenteA.class';
 
 function App() {
-  const defaultTask = new Contacto('juan','xxsx','AAS',true );
+  const defaultTask = new Contacto('juan','xxx','AAS',true );
   return (
     <div className="App">
       <header className="App-header">
