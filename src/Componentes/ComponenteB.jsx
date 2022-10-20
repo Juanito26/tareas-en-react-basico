@@ -11,7 +11,7 @@ function ComponenteB({us}) {
     <h5>
      Conectado: {us.Conectado ? 'Contacto en linea':'Contacto no Disponible'}
     </h5>
-    gggg
+    gggg adsdssd
     </div>
   )
 }
